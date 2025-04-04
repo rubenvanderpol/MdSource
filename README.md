@@ -4,4 +4,5 @@ Md with a reference to another MD.
 
 [[Another]]
 
-[Google.com]
+
+[Duck Duck Go](https://duckduckgo.com)
